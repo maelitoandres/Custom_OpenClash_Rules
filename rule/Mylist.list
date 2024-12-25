@@ -3,3 +3,21 @@ DOMAIN-SUFFIX,hgj.com
 DOMAIN-SUFFIX,nextsls.com
 DOMAIN-SUFFIX,healthoo.com
 DOMAIN-SUFFIX,qishui.com
+
+#船公司
+DOMAIN-SUFFIX,zim.com #以星
+DOMAIN-SUFFIX,matson.com.cn #美森
+DOMAIN-SUFFIX,matson.com #美森
+DOMAIN-SUFFIX,msccargo.cn #MSC
+DOMAIN-SUFFIX,maersk.com #MSK
+DOMAIN-SUFFIX,cma-cgm.com #CMA
+DOMAIN-SUFFIX,coscoshipping.com #COSCO
+DOMAIN-SUFFIX,hapag-lloyd.com #HPL
+DOMAIN-SUFFIX,one-line.com #ONE
+DOMAIN-SUFFIX,evergreen-marine.com #EMC
+DOMAIN-SUFFIX,hmm21.com #HMM
+DOMAIN-SUFFIX,yangming.com #YML
+DOMAIN-SUFFIX,wanhai.com #WHL
+DOMAIN-SUFFIX,pilship.com #PIL
+DOMAIN-SUFFIX,oocl.com #OOCL
+DOMAIN-SUFFIX,sinotrans.com #中外运
