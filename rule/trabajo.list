@@ -34,3 +34,6 @@ DOMAIN-SUFFIX,qcc.com #企查查
 
 #MSDS
 DOMAIN-SUFFIX,hgmsds.com #合规化学
+
+#政府
+DOMAIN-SUFFIX,gov.cn
