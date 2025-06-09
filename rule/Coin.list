@@ -22,3 +22,6 @@ DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,oklink.com
 DOMAIN-SUFFIX,okx.com
 
+#波场
+DOMAIN-SUFFIX,tronlink.org
+DOMAIN-SUFFIX,tronscan.org
