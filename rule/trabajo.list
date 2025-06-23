@@ -25,6 +25,10 @@ DOMAIN-SUFFIX,pilship.com #PIL
 DOMAIN-SUFFIX,oocl.com #OOCL
 DOMAIN-SUFFIX,sinotrans.com #中外运
 
+#国际快递
+DOMAIN-SUFFIX,fedex.com #联邦
+DOMAIN-SUFFIX,dhl.com #DHL
+
 #办公
 DOMAIN-SUFFIX,sino56.com
 
