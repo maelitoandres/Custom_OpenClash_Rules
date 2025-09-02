@@ -31,6 +31,7 @@ DOMAIN-SUFFIX,dhl.com #DHL
 
 #办公
 DOMAIN-SUFFIX,sino56.com
+DOMAIN-SUFFIX,pingpongx.com
 
 #系统
 DOMAIN-SUFFIX,vcaveman.com #山顶洞人
@@ -56,4 +57,5 @@ DOMAIN-SUFFIX,miyoushe.com
 DOMAIN-SUFFIX,kunluncan.com
 
 #临时
-accountboy.com
+DOMAIN-SUFFIX,accountboy.com
+
